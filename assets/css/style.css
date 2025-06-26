@@ -10,7 +10,8 @@ a {
     text-decoration: none;
 }
 
-html, body {
+html,
+body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
@@ -33,7 +34,7 @@ html, body {
     height: 100%;
     top: 0;
     left: 0;
-    background: linear-gradient(180deg, rgba(251, 0, 255, 0) 0%, rgb(36, 36, 36) 100%);
+    background: linear-gradient(180deg, rgba(240, 220, 241, 0) 0%, rgb(36, 36, 36) 100%);
 }
 
 img {
@@ -61,44 +62,7 @@ img {
     font-weight: bolder;
     text-transform: uppercase;
     font-size: 5vw;
-    transition: .4s cubic-bezier(0.075, 0.82, 0.165, 1);
+    transition: 0.4s cubic-bezier(0.075, 0.82, 0.165, 1);
     transform-origin: bottom;
-    color: rgb(162, 31, 31);
+    color: rgb(208, 107, 19);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
